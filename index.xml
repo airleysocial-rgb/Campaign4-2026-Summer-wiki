@@ -6,65 +6,65 @@
       <description>Last 10 notes on In the Heart of Texas — Campaign Wiki</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Characters</title>
-    <link>https://quartz.jzhao.xyz/characters/npcs/</link>
-    <guid>https://quartz.jzhao.xyz/characters/npcs/</guid>
-    <description><![CDATA[ Characters Known individuals operating in the hidden world beneath Texas. ]]></description>
-    <pubDate>Thu, 11 Jun 2026 22:04:28 GMT</pubDate>
-  </item><item>
     <title>House Rules</title>
     <link>https://quartz.jzhao.xyz/rules/House-Rules</link>
     <guid>https://quartz.jzhao.xyz/rules/House-Rules</guid>
     <description><![CDATA[ House Rules TBD Just a Shell at the moment. ]]></description>
-    <pubDate>Thu, 11 Jun 2026 22:04:28 GMT</pubDate>
+    <pubDate>Thu, 18 Jun 2026 22:43:28 GMT</pubDate>
   </item><item>
     <title>Faction Index</title>
     <link>https://quartz.jzhao.xyz/world/factions/Faction-Index</link>
     <guid>https://quartz.jzhao.xyz/world/factions/Faction-Index</guid>
     <description><![CDATA[ Faction Index TABLE type, alignment, status, leader FROM #faction SORT name ASC Quick Reference #FactionTypeClass Restriction1The Shattered OathUnseelie / Winter Court—2The Summer CourtSeelie / Summer Court—3The Texas RangersMortal Law Enforcement—4The WildbloodWere-creature Alliance—5The Crimson Ca... ]]></description>
-    <pubDate>Thu, 11 Jun 2026 22:04:28 GMT</pubDate>
+    <pubDate>Thu, 18 Jun 2026 22:43:28 GMT</pubDate>
   </item><item>
     <title>The Blood Senate</title>
     <link>https://quartz.jzhao.xyz/world/factions/The-Blood-Senate</link>
     <guid>https://quartz.jzhao.xyz/world/factions/The-Blood-Senate</guid>
     <description><![CDATA[ The Blood Senate “Power is not learned. ]]></description>
-    <pubDate>Thu, 11 Jun 2026 22:04:28 GMT</pubDate>
+    <pubDate>Thu, 18 Jun 2026 22:43:28 GMT</pubDate>
   </item><item>
     <title>The Brotherhood of the Eternal Lamp</title>
     <link>https://quartz.jzhao.xyz/world/factions/The-Brotherhood-of-the-Eternal-Lamp</link>
     <guid>https://quartz.jzhao.xyz/world/factions/The-Brotherhood-of-the-Eternal-Lamp</guid>
     <description><![CDATA[ The Brotherhood of the Eternal Lamp “The light shines in the darkness, and the darkness has not overcome it.” At a Glance FieldDetailTypeRussian Orthodox Christian OrderAlignmentLawful GoodStatusActiveHeadquartersSan Antonio — Saint Seraphim of Sarov Orthodox ChurchLeaderFather Arkady VolkovPublic G... ]]></description>
-    <pubDate>Thu, 11 Jun 2026 22:04:28 GMT</pubDate>
+    <pubDate>Thu, 18 Jun 2026 22:43:28 GMT</pubDate>
   </item><item>
     <title>The Crimson Cabal</title>
     <link>https://quartz.jzhao.xyz/world/factions/The-Crimson-Cabal</link>
     <guid>https://quartz.jzhao.xyz/world/factions/The-Crimson-Cabal</guid>
     <description><![CDATA[ The Crimson Cabal “San Antonio’s nights have always belonged to us. ]]></description>
-    <pubDate>Thu, 11 Jun 2026 22:04:28 GMT</pubDate>
+    <pubDate>Thu, 18 Jun 2026 22:43:28 GMT</pubDate>
   </item><item>
     <title>The Gideon Compact</title>
     <link>https://quartz.jzhao.xyz/world/factions/The-Gideon-Compact</link>
     <guid>https://quartz.jzhao.xyz/world/factions/The-Gideon-Compact</guid>
     <description><![CDATA[ The Gideon Compact “The battle isn’t against flesh and blood. ]]></description>
-    <pubDate>Thu, 11 Jun 2026 22:04:28 GMT</pubDate>
+    <pubDate>Thu, 18 Jun 2026 22:43:28 GMT</pubDate>
   </item><item>
     <title>The Ironbound</title>
     <link>https://quartz.jzhao.xyz/world/factions/The-Ironbound</link>
     <guid>https://quartz.jzhao.xyz/world/factions/The-Ironbound</guid>
     <description><![CDATA[ The Ironbound (Dwarf Faction) “We have held these tunnels for a thousand years. ]]></description>
-    <pubDate>Thu, 11 Jun 2026 22:04:28 GMT</pubDate>
+    <pubDate>Thu, 18 Jun 2026 22:43:28 GMT</pubDate>
   </item><item>
     <title>The Lamed Vav</title>
     <link>https://quartz.jzhao.xyz/world/factions/The-Lamed-Vav</link>
     <guid>https://quartz.jzhao.xyz/world/factions/The-Lamed-Vav</guid>
     <description><![CDATA[ The Lamed Vav “In every generation, they stand between the world and its end. They do not announce themselves. ]]></description>
-    <pubDate>Thu, 11 Jun 2026 22:04:28 GMT</pubDate>
+    <pubDate>Thu, 18 Jun 2026 22:43:28 GMT</pubDate>
   </item><item>
     <title>The Magisterium Directorate</title>
     <link>https://quartz.jzhao.xyz/world/factions/The-Magisterium-Directorate</link>
     <guid>https://quartz.jzhao.xyz/world/factions/The-Magisterium-Directorate</guid>
     <description><![CDATA[ The Magisterium Directorate “Magic unregulated is magic weaponized against civilization.” At a Glance FieldDetailTypeWizard OrderAlignmentLawful NeutralStatusActiveHeadquartersAcademic institution (undisclosed)LeaderPublic GoalRegulate, catalogue, and control magic in the mortal worldHidden Goal Des... ]]></description>
-    <pubDate>Thu, 11 Jun 2026 22:04:28 GMT</pubDate>
+    <pubDate>Thu, 18 Jun 2026 22:43:28 GMT</pubDate>
+  </item><item>
+    <title>The Order of Saint Michael</title>
+    <link>https://quartz.jzhao.xyz/world/factions/The-Order-of-Saint-Michael</link>
+    <guid>https://quartz.jzhao.xyz/world/factions/The-Order-of-Saint-Michael</guid>
+    <description><![CDATA[ The Order of Saint Michael “We do not hunt monsters. ]]></description>
+    <pubDate>Thu, 18 Jun 2026 22:43:28 GMT</pubDate>
   </item>
     </channel>
   </rss>
